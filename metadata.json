@@ -1,0 +1,6 @@
+{
+  "name": "Statecraft Intelligence",
+  "description": "Consolidated ECI Form 20 electoral & demographic intelligence platform for constituency and booth-level analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
